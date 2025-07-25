@@ -1,0 +1,1 @@
+This project is a modern e-commerce product listing page, designed using HTML and CSS with interactive UI features. It includes product cards, filtering, heart icons, rating displays, and a clean layout, making it ideal for learning and prototyping
